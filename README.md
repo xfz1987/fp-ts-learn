@@ -1,6 +1,6 @@
 ### fp-ts-learn
 
-artcles
+artcles:
 
 - [validate-state-hook with fp-ts](https://juejin.cn/post/7279295129348735034)
 - [函数式编程 - fp-ts 初探](https://juejin.cn/post/7229593695652806693)
